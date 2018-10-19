@@ -19,18 +19,18 @@ npm install
 ## Run
 
 Open Expo XDE on desktop, and open this root repository from "Open existing project..."
-![image](./readme_images/image_expoxde.png)
+![image](./readme_images/image_expoxde.png | width=100)
 
 Expo will provide QR code, then you scan QR code with your Expo app on your phone
-![image](./readme_images/image_expoxde_QRcode.png)
+![image](./readme_images/image_expoxde_QRcode.png | width=100)
 
 Open camera from "scan QR code" on your Expo app
-![image](./readme_images/image_expoxde_app.png)
+![image](./readme_images/image_expoxde_app.png | width=100)
 
 Wait to load files to run code
 
 Now you are able to use my mobile app:)
-![image](./readme_images/react_native_app_1.png)
+![image](./readme_images/react_native_app_1.png | width=100)
 
 # Usage
 
